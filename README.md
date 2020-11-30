@@ -1,1 +1,1 @@
-# Multilingual-Online-Translator-Python-
+Everyone’s familiar with online translators. They giving us a handy way to translate on the go. Multilingual Online Translator app helps to translates the words you type and gives you many usage examples based on the context.
